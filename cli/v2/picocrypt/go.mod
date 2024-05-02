@@ -1,6 +1,6 @@
 module github.com/HACKERALERT/Picocrypt/cli/v2/picocrypt
 
-go 1.22.2
+go 1.22
 
 require (
 	github.com/HACKERALERT/infectious v0.0.0-20240424200929-b9ce72346a19
